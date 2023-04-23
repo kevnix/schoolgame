@@ -1,5 +1,7 @@
 res://UI/menu.tscn
 res://level_1.tscn
 res://UI/transitioner.tscn
-res://UI/menu.gd
 res://UI/about.tscn
+res://InteractiveTileMap.gd
+res://UI/GoToMenu.gd
+res://UI/about.gd

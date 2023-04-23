@@ -1,58 +1,58 @@
 2a60927148abd1d33b818b535e306557
-::res://::1682273308
+::res://::1682276642
 icon.svg::CompressedTexture2D::9061393411176824348::1681567519::1681967643::1::::<><>::
 InteractiveTileMap.gd::GDScript::-1::1681968568::0::1::::InteractiveTilemap<>TileMap<>::
-level_1.tscn::PackedScene::4560388137489723907::1682267292::0::1::::<><>::uid://cbyd581odwbh2<>uid://cc30s8sj3c8de<>uid://br33n3fuu11qs<>res://InteractiveTileMap.gd
-::res://Art/::1681968568
+level_1.tscn::PackedScene::4560388137489723907::1682274913::0::1::::<><>::uid://cbyd581odwbh2<>uid://cc30s8sj3c8de<>uid://br33n3fuu11qs<>res://InteractiveTileMap.gd
+::res://Art/::1682275660
 public-license.txt::TextFile::-1::1681968568::0::1::::<><>::
-::res://Art/Battle Backgrounds/::1681968568
-::res://Art/Battle Backgrounds/Dungeon/::1681968568
+::res://Art/Battle Backgrounds/::1682275660
+::res://Art/Battle Backgrounds/Dungeon/::1682275660
 Dungeon-door-skull.png::CompressedTexture2D::3521255174815557579::1681968568::1681968568::1::::<><>::
 Dungeon-door.png::CompressedTexture2D::7757102779454000794::1681968568::1681968568::1::::<><>::
-::res://Art/Battle Backgrounds/Hazy Hills/::1681968568
+::res://Art/Battle Backgrounds/Hazy Hills/::1682275660
 battle-background-sunny-hillsx1.png::CompressedTexture2D::8387820212938918603::1681968568::1681968568::1::::<><>::
 HUD.png::CompressedTexture2D::8704798008053405818::1681968568::1681968568::1::::<><>::
-::res://Art/Battle Sprites/::1681968568
-::res://Art/Battle Sprites/Living/::1681968568
+::res://Art/Battle Sprites/::1682275660
+::res://Art/Battle Sprites/Living/::1682275660
 Frog.png::CompressedTexture2D::3408565028631430201::1681968568::1681968568::1::::<><>::
 Mummy.png::CompressedTexture2D::3302206986598841773::1681968568::1681968568::1::::<><>::
 Ogre.png::CompressedTexture2D::7536720332947933656::1681968568::1681968568::1::::<><>::
 slime.png::CompressedTexture2D::7673341340284546418::1681968568::1681968568::1::::<><>::
 wizard.png::CompressedTexture2D::5063396077466025564::1681968568::1681968568::1::::<><>::
-::res://Art/Battle Sprites/Mechanic/::1681968568
+::res://Art/Battle Sprites/Mechanic/::1682275660
 Drone.png::CompressedTexture2D::4595047789430343892::1681968568::1681968568::1::::<><>::
 Metal-Slug.png::CompressedTexture2D::2016560952984073079::1681968568::1681968568::1::::<><>::
 observer.png::CompressedTexture2D::3607537256923645814::1681968568::1681968568::1::::<><>::
 Sentinel.png::CompressedTexture2D::4709467115466796728::1681968568::1681968568::1::::<><>::
 steel-eagle.png::CompressedTexture2D::4335078223499949200::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/::1681968568
-::res://Art/Environments/Cave/::1681968568
+::res://Art/Environments/::1682275660
+::res://Art/Environments/Cave/::1682275660
 tileset.png::CompressedTexture2D::4511178643736125370::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Cave/preview/::1681968568
+::res://Art/Environments/Cave/preview/::1682275660
 preview.png::CompressedTexture2D::2337822464113584360::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/TechLab/::1681968568
+::res://Art/Environments/TechLab/::1682275660
 Tileset.png::CompressedTexture2D::5895451681576254731::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/TechLab/previews/::1681968568
+::res://Art/Environments/TechLab/previews/::1682275660
 preview-export-x9.png::CompressedTexture2D::7492915618459178530::1681968568::1681968568::1::::<><>::
 preview.png::CompressedTexture2D::3154090768229234406::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Techlab 2/::1681968568
+::res://Art/Environments/Techlab 2/::1682275660
 tileset.png::CompressedTexture2D::1919894076364902122::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Techlab 2/previews/::1681968568
+::res://Art/Environments/Techlab 2/previews/::1682275660
 preview-exporx3t.png::CompressedTexture2D::3696372543877717666::1681968568::1681968568::1::::<><>::
 preview.png::CompressedTexture2D::335980734931883162::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Town/::1681968568
-::res://Art/Environments/Town/PSD/::1681968568
-::res://Art/Environments/Town/spritesheets/::1681968568
+::res://Art/Environments/Town/::1682275660
+::res://Art/Environments/Town/PSD/::1682275660
+::res://Art/Environments/Town/spritesheets/::1682275660
 hero.png::CompressedTexture2D::2438285372565022373::1681968568::1681968568::1::::<><>::
 npc.png::CompressedTexture2D::7271514293328030720::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Town/tileset/::1681968568
+::res://Art/Environments/Town/tileset/::1682275660
 example.png::CompressedTexture2D::1398002172722894323::1681968568::1681968568::1::::<><>::
 grass-tile-2.png::CompressedTexture2D::7092733307639394449::1681968568::1681968568::1::::<><>::
 grass-tile-3.png::CompressedTexture2D::1346222509914149397::1681968568::1681968568::1::::<><>::
 grass-tile.png::CompressedTexture2D::8525906049342497551::1681968568::1681968568::1::::<><>::
 grass-tiles.png::CompressedTexture2D::3639158373085863786::1681968568::1681968568::1::::<><>::
 tileset.png::CompressedTexture2D::4972573462408877662::1681968568::1681968568::1::::<><>::
-::res://Art/Environments/Vegetation props/::1681968568
+::res://Art/Environments/Vegetation props/::1682275661
 bush-1.png::CompressedTexture2D::1202828966731204534::1681968568::1681968568::1::::<><>::
 bush-2.png::CompressedTexture2D::2424565548169717721::1681968568::1681968568::1::::<><>::
 bush-3.png::CompressedTexture2D::9099352619292620684::1681968568::1681968568::1::::<><>::
@@ -61,12 +61,13 @@ plant-2.png::CompressedTexture2D::5707809922937443543::1681968568::1681968568::1
 plant-3.png::CompressedTexture2D::2635011292599131100::1681968568::1681968568::1::::<><>::
 tree-1.png::CompressedTexture2D::6933043375341496140::1681968568::1681968568::1::::<><>::
 tree-2.png::CompressedTexture2D::5477323092949978276::1681968568::1681968568::1::::<><>::
-::res://Characters/::1681968568
+::res://Characters/::1682275661
 Player.gd::GDScript::-1::1681968568::0::1::::<>CharacterBody2D<>::
 Player.tscn::PackedScene::4892812775993556013::1681968568::0::1::::<><>::res://Characters/Player.gd<>uid://ba0eg6wbxfkyv
-::res://UI/::1682273238
-menu.gd::GDScript::-1::1682273064::0::1::::<>Control<>::
-menu.tscn::PackedScene::8064619586888807499::1682273238::0::1::::<><>::res://UI/menu.gd
+::res://UI/::1682275661
+about.tscn::PackedScene::2800834499881926720::1682274913::0::1::::<><>::
+menu.gd::GDScript::-1::1682274836::0::1::::<>Control<>::
+menu.tscn::PackedScene::8064619586888807499::1682274913::0::1::::<><>::res://UI/menu.gd
 TransitionButton.gd::GDScript::-1::1682272766::0::1::::<>CheckButton<>::
 transitioner.gd::GDScript::-1::1682272040::0::1::::Transitioner<>Control<>::
-transitioner.tscn::PackedScene::7410236666860624321::1682273064::0::1::::<><>::res://UI/transitioner.gd
+transitioner.tscn::PackedScene::7410236666860624321::1682274913::0::1::::<><>::res://UI/transitioner.gd

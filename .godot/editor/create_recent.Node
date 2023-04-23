@@ -1,9 +1,9 @@
+Button
 RichTextLabel
 CheckButton
 CanvasLayer
 AnimationPlayer
 TextureRect
-Button
 TileMap
 AnimationTree
 RemoteTransform2D

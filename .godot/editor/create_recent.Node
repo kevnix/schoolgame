@@ -1,0 +1,15 @@
+RichTextLabel
+CheckButton
+CanvasLayer
+AnimationPlayer
+TextureRect
+Button
+TileMap
+AnimationTree
+RemoteTransform2D
+Camera2D
+CollisionShape2D
+Sprite2D
+CharacterBody2D
+AnimatedSprite2D
+VBoxContainer

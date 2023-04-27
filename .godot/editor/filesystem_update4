@@ -3,7 +3,3 @@ res://level_1.tscn
 res://UI/transitioner.tscn
 res://UI/about.tscn
 res://Characters/Player.tscn
-res://MenuButton.gd
-res://UI/about.gd
-res://UI/transitioner.gd
-res://UI/menu.gd

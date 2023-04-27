@@ -1,22 +1,9 @@
 [gd_scene load_steps=3 format=3 uid="uid://dm5tdu6uq03j8"]
 
 [ext_resource type="Script" path="res://UI/menu.gd" id="1_sf0sa"]
+[ext_resource type="PackedScene" uid="uid://ddttrrvstb0xx" path="res://UI/transitioner.tscn" id="2_kf3bd"]
 
-[sub_resource type="GDScript" id="GDScript_shxab"]
-script/source = "extends Button
-
-
-# Called when the node enters the scene tree for the first time.
-func _ready():
-	pass # Replace with function body.
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	pass
-"
-
-[node name="Menu" type="Control"]
+[node name="Menu" type="Control" node_paths=PackedStringArray("transitioner")]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
@@ -24,6 +11,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_sf0sa")
+transitioner = NodePath("CanvasLayer/Transitioner")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="."]
 layout_mode = 1
@@ -37,7 +25,6 @@ grow_vertical = 0
 [node name="StartButton" type="Button" parent="VBoxContainer"]
 layout_mode = 2
 text = "Sākt"
-script = SubResource("GDScript_shxab")
 
 [node name="AboutButton" type="Button" parent="VBoxContainer"]
 layout_mode = 2
@@ -48,6 +35,18 @@ text = "Par Spēli"
 layout_mode = 2
 text = "Beigt"
 
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Transitioner" parent="CanvasLayer" instance=ExtResource("2_kf3bd")]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -38.0
+offset_right = 38.0
+
 [connection signal="pressed" from="VBoxContainer/StartButton" to="." method="_on_start_button_pressed"]
+[connection signal="pressed" from="VBoxContainer/StartButton" to="VBoxContainer/StartButton" method="_on_pressed"]
 [connection signal="pressed" from="VBoxContainer/AboutButton" to="." method="_on_about_button_pressed"]
 [connection signal="pressed" from="VBoxContainer/QuitButton" to="." method="_on_quit_button_pressed"]

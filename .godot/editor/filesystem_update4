@@ -2,6 +2,8 @@ res://UI/menu.tscn
 res://level_1.tscn
 res://UI/transitioner.tscn
 res://UI/about.tscn
-res://InteractiveTileMap.gd
-res://UI/GoToMenu.gd
+res://Characters/Player.tscn
+res://MenuButton.gd
 res://UI/about.gd
+res://UI/transitioner.gd
+res://UI/menu.gd

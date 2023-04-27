@@ -1,7 +1,8 @@
+CanvasLayer
+VBoxContainer
 Button
 RichTextLabel
 CheckButton
-CanvasLayer
 AnimationPlayer
 TextureRect
 TileMap
@@ -12,4 +13,3 @@ CollisionShape2D
 Sprite2D
 CharacterBody2D
 AnimatedSprite2D
-VBoxContainer

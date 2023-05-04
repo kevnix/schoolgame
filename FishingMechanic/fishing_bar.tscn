@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://doenyyax7v42t"]
+
+[ext_resource type="Texture2D" uid="uid://dn04iku27jted" path="res://Assets/FishingBar.png" id="1_wkdji"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_30dy3"]
+size = Vector2(82, 452)
+
+[node name="FishingBar" type="StaticBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_wkdji")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_30dy3")

@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://ca2ply0n0phuh"]
+
+[ext_resource type="Texture2D" uid="uid://cwivosgx5o80" path="res://Assets/Bobber_TilesSetpng.png" id="1_w2x2c"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3brfa"]
+size = Vector2(27, 108)
+
+[node name="Bobber" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(2, 10)
+texture = ExtResource("1_w2x2c")
+vframes = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-0.5, 0)
+shape = SubResource("RectangleShape2D_3brfa")

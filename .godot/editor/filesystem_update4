@@ -3,3 +3,4 @@ res://level_1.tscn
 res://UI/transitioner.tscn
 res://UI/about.tscn
 res://Characters/Player.tscn
+res://UI/transitioner.gd
